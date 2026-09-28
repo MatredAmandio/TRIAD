@@ -1,0 +1,17 @@
+{
+  "name": "TRIAD · Strength Conditioning Performance",
+  "short_name": "TRIAD",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050b10",
+  "theme_color": "#050b10",
+  "description": "Força, condicionamento e performance.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
