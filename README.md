@@ -1,4 +1,4 @@
-# HDSC Training — protótipo funcional
+# TRIAD — protótipo funcional
 
 Aplicativo web mobile-first para o programa Full Body A/B/C criado para força, hipertrofia, calistenia, condicionamento e suporte à rotina de surf.
 
@@ -14,4 +14,5 @@ Aplicativo web mobile-first para o programa Full Body A/B/C criado para força, 
 
 Abra `index.html` no navegador ou publique com GitHub Pages.
 
-> Nome HDSC Training é provisório e pode ser trocado sem alterar a estrutura do app.
+
+**TRIAD**: Strength • Conditioning • Performance.
