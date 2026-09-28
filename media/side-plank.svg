@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 430" role="img" aria-label="Prancha lateral: posição inicial e posição final">
+<style>.bg{fill:#f4f5f7}.t{font:700 25px Arial,sans-serif;fill:#111827}.s{stroke:#1f2937;stroke-width:22;stroke-linecap:round;stroke-linejoin:round;fill:none}.j{fill:#1f2937}.mat{stroke:#64748b;stroke-width:7;stroke-linecap:round}.guide{stroke:#2563eb;stroke-width:5;stroke-dasharray:12 10;fill:none}.sep{stroke:#cbd5e1;stroke-width:3}</style>
+<rect class="bg" width="1000" height="430" rx="24"/><line class="sep" x1="500" y1="24" x2="500" y2="406"/>
+<text class="t" x="250" y="55" text-anchor="middle">POSIÇÃO INICIAL</text><text class="t" x="750" y="55" text-anchor="middle">POSIÇÃO FINAL</text>
+<line class="mat" x1="55" y1="360" x2="445" y2="360"/><line class="mat" x1="555" y1="360" x2="945" y2="360"/>
+<!-- initial: side lying, elbow under shoulder -->
+<circle class="j" cx="355" cy="205" r="28"/><path class="s" d="M330 230 L285 285 L205 315 L105 338 M205 315 L105 318 M285 285 L330 330 L370 330"/><circle class="j" cx="285" cy="285" r="10"/><circle class="j" cx="330" cy="330" r="10"/>
+<!-- final: straight line shoulder-hip-ankle, forearm support -->
+<circle class="j" cx="855" cy="150" r="28"/><path class="s" d="M830 178 L770 225 L690 270 L590 320 M770 225 L810 320 L855 320 M770 225 L820 215"/><circle class="j" cx="770" cy="225" r="10"/><circle class="j" cx="810" cy="320" r="10"/>
+<path class="guide" d="M830 178 L770 225 L690 270 L590 320"/><path class="guide" d="M770 225 L810 320"/>
+<text x="750" y="395" text-anchor="middle" font-family="Arial" font-size="19" fill="#475569">Cotovelo sob o ombro • quadril elevado • corpo alinhado</text>
+</svg>
